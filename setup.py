@@ -21,10 +21,10 @@ REQUIRED = [
     'scikit-image',
     'scipy',
     'setproctitle>=1.0',
-    'tensorflow>=1.14',
-    'tensorflow-probability>=0.11.0',
-    'torch>=1.0.0,!=1.5.0',
-    'torchvision>=0.2.1',
+    # 'tensorflow>=1.14',
+    # 'tensorflow-probability>=0.11.0',
+    # 'torch>=1.0.0,!=1.5.0',
+    # 'torchvision>=0.2.1',
 ]
 
 # Dependencies for optional features
